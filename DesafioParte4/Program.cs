@@ -153,7 +153,7 @@ do
         case "2":
             //Exibe todos os cães com a característica específica digitada.
             Console.Clear();
-            Console.WriteLine("============= PESQUISA DE CARACTERÍSTICA ================");
+            Console.WriteLine("============= PESQUISA DE CARACTERÍSTICA DE CÃES ================");
             string caracteristicasEspecificas = "";
 
             while (caracteristicasEspecificas == "")

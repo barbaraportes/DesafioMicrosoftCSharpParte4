@@ -1,10 +1,14 @@
-#Desafio do curso de Introdução ao C# - Parte 4 da Microsoft.
+# Desafio do curso de Introdução ao C# - Parte 4 da Microsoft.
 
-O desafio era criar um aplicativo de sistema de adoção, inserir alguns pets com suas características no "banco de dados" e exibir um menu principal com duas opções:
+Projeto desenvolvido por mim durante o desafio do curso.
+
+
+O desafio consistia em criar um aplicativo de sistema de adoção, inserir alguns pets com suas características no "banco de dados" e exibir um menu principal com duas opções:
 
 Opção 1 para exibir todos os pets com informações completas;
 Opção 2 dar suporte à pesquisa de vários termos(caracteristicas específicas) e melhorar a animação das informações do "status de pesquisa".
 
+<hr>
 
 Nesse desafio, desenvolvi um código que realiza:
 
@@ -15,6 +19,7 @@ Nesse desafio, desenvolvi um código que realiza:
 - Criar e manipular matrizes de cadeia de caracteres e classificar os dados de uma matriz
 - Modificar e criar cadeias de caracteres complexas de várias fontes de dados e formatar os dados para exibição
 - 
+<hr>
 
   Funcionalidades:
   
